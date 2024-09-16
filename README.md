@@ -1,0 +1,2 @@
+## Predicting Loan Default Risk
+Financial institutions face significant challenges in assessing the creditworthiness of loan applicants. Accurate evaluation of an applicants ability to repay a loan is crucial for minimising defaults and managing risk. Traditional methods of credit assessment may not fully capture the complexities of individual financial behaviour, leading to potential lossess for lenders. By leveraging machine learning and predictive analytics, institutions can enhance their loan approval and make more informed decisions.

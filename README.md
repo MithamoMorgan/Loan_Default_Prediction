@@ -17,7 +17,7 @@ Develop a predictive model that accurately evaluates the risk of loan defaults b
   * Build and train a predictive model to evaluate the likelihood of loan defaults.
   * Explore and implement various machine learning algorithms such as Logistic Regression, Decision Trees, Random Forest, Gradient Boosting Machines, etc
 
-**3. Evaluation**
+**3. Evaluation:**
 * Assess the model's performance using relevant metrics such as accuracy, precision, recall, F1 Score, ROC-AUC, and especially the precision-recall trade-off to balance risk and reward.
 * Ensure the model's predictions are fair and unbiased, particularly in sensitive areas like income and employment status.
 
